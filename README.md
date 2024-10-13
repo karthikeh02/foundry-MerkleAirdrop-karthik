@@ -1,4 +1,3 @@
-Here is a sample `README.md` file for your **Merkle Airdrop** project:
 
 ---
 
@@ -150,4 +149,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify and expand on this `README.md` file based on the specific details of your project or repository. Let me know if you'd like further customization!
